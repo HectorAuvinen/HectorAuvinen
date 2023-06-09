@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Hector Auvinen
 
+🌱 I'm currently studying Artificial Intelligence at Johannes Kepler University Linz
 <!--
 **HectorAuvinen/HectorAuvinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
